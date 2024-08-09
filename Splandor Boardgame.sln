@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Splandor Boardgame", "Splandor Boardgame.csproj", "{B355AFBB-C563-4533-9AC1-547AD76644C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplendorClient", "..\SplendorClient\SplendorClient.csproj", "{BC3AF5FA-47AB-4D0A-971E-E27ADB568431}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B355AFBB-C563-4533-9AC1-547AD76644C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B355AFBB-C563-4533-9AC1-547AD76644C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B355AFBB-C563-4533-9AC1-547AD76644C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3AF5FA-47AB-4D0A-971E-E27ADB568431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3AF5FA-47AB-4D0A-971E-E27ADB568431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3AF5FA-47AB-4D0A-971E-E27ADB568431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3AF5FA-47AB-4D0A-971E-E27ADB568431}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
